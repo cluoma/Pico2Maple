@@ -9,7 +9,7 @@ A Dreamcast Maple bus emulator for the RP2350
 * A Dreamcast controller cable
 * Steam Controller with USB dongle
 
-<div style="text-align: center"><a href="https://www.cluoma/com/images/pico2maple_needed_hardware.jpg"><img src="https://www.cluoma/com/images/pico2maple_needed_hardware.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
+<div style="text-align: center"><a href="https://www.cluoma.com/images/pico2maple_needed_hardware.jpg"><img src="https://www.cluoma.com/images/pico2maple_needed_hardware.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
 
 # Controls
 
@@ -25,11 +25,11 @@ Holding down the *BOOTSEL* button while connecting the Pico to a PC should make 
 
 Use a multi-meter to check which wires on the controller cable correspond to the following pins on the controller plug.
 
-<div style="text-align: center"><a href="https://www.cluoma/com/images/dc_controller_plug.jpg"><img src="https://www.cluoma/com/images/dc_controller_plug.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
+<div style="text-align: center"><a href="https://www.cluoma.com/images/dc_controller_plug.jpg"><img src="https://www.cluoma.com/images/dc_controller_plug.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
 
 Connect the wires to the labelled pins on the Pico below by soldering or otherwise.
 
-<div style="text-align: center"><a href="https://www.cluoma/com/images/pico2maple_pinout.jpg"><img src="https://www.cluoma/com/images/pico2maple_pinout.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
+<div style="text-align: center"><a href="https://www.cluoma.com/images/pico2maple_pinout.jpg"><img src="https://www.cluoma.com/images/pico2maple_pinout.jpg" style="margin: auto; max-width: 100%"></a><p></p></div>
 
 With everything wired up, it's simply a matter of plugging in the Steam Controller dongle to the Pico using the USB-A to Mini-USB adapter and plugging the controller cable into the Dreamcast.
 
