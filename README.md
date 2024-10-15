@@ -18,6 +18,7 @@ Controls are mapped as you would expect. The exception is the left touchpad of t
 # Download
 
 [Download the pico2maple uf2 firmware file](pico2maple.uf2).
+
 Or [Download the steamcontroller2maple uf2 firmware file](steamcontroller2maple.uf2) for trackpad support as a second analog stick. Note that this may break controller compatibility with some games.
 
 Holding down the *BOOTSEL* button while connecting the Pico to a PC should make it appear as a USB storage device. Then simply copy the pico2maple uf2 file over and the Pico should reboot itself with the new firmware.
